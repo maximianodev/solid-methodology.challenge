@@ -166,7 +166,7 @@ Para que esses testes passem, você deve fazer alterações em todos os controll
 
 **Model**
 
-[] - Should be able to create an user with all props
+[x] - Should be able to create an user with all props
 
 ---
 
