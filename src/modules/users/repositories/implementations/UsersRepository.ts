@@ -46,8 +46,8 @@ class UsersRepository implements IUsersRepository {
     return user;
   }
 
-  turnAdmin(receivedUser: User): User {
-    const user = this.users.find((user) => user.id === receivedUser.id);
+  turnAdmin(receivedUser: string): User {
+    const user = this.users.find((user) => user.id === receivedUser);
 
     if (!user) {
       throw new Error("User not found");

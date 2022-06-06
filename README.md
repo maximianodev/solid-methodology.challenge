@@ -182,9 +182,9 @@ Para que esses testes passem, você deve fazer alterações em todos os controll
 
 **useCases**
 
-[] - Should be able to create new users  
-[] - Should not be able to create new users when email is already ta ken  
-[] - Should be able to turn an user as admin  
+[x] - Should be able to create new users  
+[x] - Should not be able to create new users when email is already ta ken  
+[x] - Should be able to turn an user as admin  
 [] - Should not be able to turn a non existing user as admin  
 [] - Should be able to get user profile by ID  
 [] - Should not be able to show profile of a non existing user  
