@@ -5,6 +5,8 @@ class User {
   created_at: string;
   updated_at: string;
   admin: boolean;
+  name: string;
+  email: string;
 
   constructor() {
     this.admin = false;
