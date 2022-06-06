@@ -172,8 +172,8 @@ Para que esses testes passem, você deve fazer alterações em todos os controll
 
 **Repository**
 
-[] - Should be able to create new users  
-[] - Should be able to list all users  
+[x] - Should be able to create new users  
+[x] - Should be able to list all users  
 [] - Should be able to find user by ID  
 [] - Should be able to find user by e-mail address  
 [] - Should be able to turn an user as admin
