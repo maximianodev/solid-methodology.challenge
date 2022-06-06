@@ -176,7 +176,7 @@ Para que esses testes passem, você deve fazer alterações em todos os controll
 [x] - Should be able to list all users  
 [x] - Should be able to find user by ID  
 [x] - Should be able to find user by e-mail address  
-[] - Should be able to turn an user as admin
+[x] - Should be able to turn an user as admin
 
 ---
 
